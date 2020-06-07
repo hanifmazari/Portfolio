@@ -1,0 +1,75 @@
+
+
+
+
+.logo{
+    width: 65px;
+    
+
+}
+
+    
+.fa-shopping-cart,.fa-user{
+    font-size: 20px !important;
+}
+
+
+a.signin,.login{
+    margin:8px;
+    
+    color: #ffff;
+    color: #ffff!important;
+
+}
+
+.nav-link{
+   color: #000000!important;
+   font-weight: 600;
+}
+.navbar-brand{
+    font-size: 30px !important;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: #FF8F00 !important;
+}
+.border{
+    height: auto;
+    box-shadow: 10 10 5 0 !important;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.fa-truck,.fa-money,.fa-phone,.fa-hand-o-left{
+    font-size: 50px !important;
+}
+.maincard{
+    color: #FF8F00;
+    margin-top: 30px;
+}
+.button{
+    color: #ffff !important;
+    background-color: #FF8F00 !important;
+    border-style: none  ;
+    border-radius: 5px;
+    font-weight: 600;
+    
+}
+.heading{
+    text-align: center;
+    background-color: #FF8F00;
+    color: #ffffff;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.www{
+    width: auto !important ;
+    /* width: 1100px !important; */
+}
+.sign{
+    background-color: #FF8F00 !important;
+    border: none !important;
+    font-weight: 600 !important;
+    
+}

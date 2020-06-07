@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.big-banner{
+    background-image: url(web-development.jpg);
+    height: 700px;
+}
+img{
+    height: 150px!important;
+}
