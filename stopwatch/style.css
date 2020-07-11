@@ -1,0 +1,31 @@
+/* STOP Watch styling */
+body{
+margin: auto;
+text-align: center;
+margin-top: 20%;
+margin-bottom: 20%;
+}
+h1{
+    color: #ffffff;
+}
+
+
+h2{
+    color: #ffffff;
+    display: inline-block;
+    width: 120px;
+    font-family: monospace;
+}
+
+.main{
+    display: inline-block;
+    background-color:#000;
+    text-align: center;
+    border-radius: 20px;
+}
+button{
+    font-size: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
